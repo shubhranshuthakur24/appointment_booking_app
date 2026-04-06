@@ -31,4 +31,4 @@ const AppTabs = () => {
   );
 };
 
-export default AppTabs;//
+export default AppTabs;
